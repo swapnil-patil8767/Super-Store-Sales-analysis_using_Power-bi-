@@ -11,3 +11,14 @@ https://github.com/swapnil-patil8767/Super-Store-Sales-analysis_using_Power-bi-/
 ![Screenshot 2024-03-14 061346](https://github.com/swapnil-patil8767/Super-Store-Sales-analysis_using_Power-bi-/assets/162879223/7736f859-f5bc-4a43-877b-819547355451)
 
 # Sales Insights
+
+#### ○  The year 2020. It appears that December was the month with the most sales, followed by November and October.
+#### ○ This section shows the total sales for two segments, Consumer and Corporate, likely for the year 2020. Consumer sales make up 54% of the total sales, while Corporate Sales account for 30%.
+#### ○ This section breaks down the total sales by category. Office Supplies is the top-selling category, followed by Technology and Furniture
+#### ○  Total sales for each shipping method. Standard shipping is the most popular, followed by Second Class, First Class, and Same Day.
+#### ○  The year 2020. It appears that December was the month with the most sales, followed by November and October.
+#### ○  Office Supplies is the top-selling category, followed by Technology and Furniture
+#### ○  Phones contribute the most to sales at nearly 25%, followed by Chairs at 13.75%
+○
+○
+○
